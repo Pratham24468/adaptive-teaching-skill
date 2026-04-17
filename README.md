@@ -1,4 +1,4 @@
-# adaptive-teaching
+# Adaptive-teaching
 
 An evidence-based AI teaching skill that transforms any frontier AI model (Claude, GPT, Gemini) into a cognitive-science-grounded tutor. Built from peer-reviewed research — Dunlosky (2013), Sweller CLT (2024), Hattie Visible Learning (2023+) — covering 169,179 participants across 242 studies.
 
